@@ -2,6 +2,9 @@
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
+![GitHub release](https://img.shields.io/github/release/danloi2/knowledge-links-base?color=blue)
+
+
 A curated collection of web links organized as a personal knowledge base.  
 This repository is intended for storing useful resources, references, and learning materials.
 
