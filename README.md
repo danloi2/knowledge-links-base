@@ -1,4 +1,4 @@
-# knowledge-links
+# Knowledge-Links-Base
 
 ![GitHub license](https://img.shields.io/github/license/danloi2/knowledge-links-base)
 ![GitHub release](https://img.shields.io/github/v/release/danloi2/knowledge-links-base?color=blue)
