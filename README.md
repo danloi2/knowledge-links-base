@@ -1,10 +1,7 @@
 # knowledge-links
 
 ![GitHub license](https://img.shields.io/github/license/danloi2/knowledge-links-base)
-
-
-![GitHub release](https://img.shields.io/github/release/v/danloi2/knowledge-links-base?color=blue)
-
+![GitHub release](https://img.shields.io/github/v/release/danloi2/knowledge-links-base?color=blue)
 
 A curated collection of web links organized as a personal knowledge base.  
 This repository is intended for storing useful resources, references, and learning materials.
