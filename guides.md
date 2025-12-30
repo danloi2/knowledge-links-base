@@ -18,3 +18,12 @@
 
 [![GitHub Markdown Guide](https://img.shields.io/badge/Guide-Markdown%20GitHub%20Flavored-blue)](https://docs.github.com/en/get-started/writing-on-github)
 
+## Guía de Bash / Terminal Linux 🖥️
+
+[![Bash Guide](https://img.shields.io/badge/Guide-Bash%20Shell-blue?logo=youtube)](https://www.youtube.com/watch?v=ABgLEKFhlZE)
+[![GitHub](https://img.shields.io/badge/GitHub-hello--bash--shell-black?logo=github)](https://github.com/mouredev/hello-bash-shell)
+
+
+
+
+
