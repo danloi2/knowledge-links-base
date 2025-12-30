@@ -1,8 +1,9 @@
 # knowledge-links
 
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![GitHub license](https://img.shields.io/github/license/danloi2/knowledge-links-base)
 
-![GitHub release](https://img.shields.io/github/release/danloi2/knowledge-links-base?color=blue)
+
+![GitHub release](https://img.shields.io/github/release/v/danloi2/knowledge-links-base?color=blue)
 
 
 A curated collection of web links organized as a personal knowledge base.  
