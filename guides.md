@@ -21,7 +21,7 @@
 ## Latex
 
 
-[![LaTeX Bilateria](https://img.shields.io/badge/LaTeX%20Bilateria-blue?logo=latex)](https://latex.bilateria.org/index.html)
+[![LaTeX Bilateria](https://img.shields.io/badge/Bilateria-blue?logo=latex)](https://latex.bilateria.org/index.html)
 
 ## Guía de Bash / Terminal Linux
 
