@@ -19,13 +19,14 @@
 [![Breviarium](https://img.shields.io/badge/Breviarium-blue?logo=book)](https://breviarium.es/)
 [![GitHub](https://img.shields.io/badge/breviarium--app-black?logo=github)](https://github.com/breviarium-app/)
 
-[![Romcal](https://img.shields.io/badge/Romcal-blue)](https://romcal.js.org)
-[![GitHub](https://img.shields.io/badge/romcal-black?logo=github)](https://github.com/romcal/romcal)
-
 [![ePrex](https://img.shields.io/badge/ePrex-blue)](https://eprex.app/)
 
 [![iBreviary](https://img.shields.io/badge/iBreviary-blue)](https://www.ibreviary.com/m2/breviario.php)
 
+[![Misas.org](https://img.shields.io/badge/La%20Santa%20Misa-blue)](https://misas.org/)
+
+[![Romcal](https://img.shields.io/badge/Romcal-blue)](https://romcal.js.org)
+[![GitHub](https://img.shields.io/badge/romcal-black?logo=github)](https://github.com/romcal/romcal)
 
 ## Medios Católicos
 
@@ -37,7 +38,7 @@
 
 [![EWTN](https://img.shields.io/badge/EWTN-blue?logo=television)](https://www.ewtn.com/)
 
-[![Radio María](https://img.shields.io/badge/Radio%20María-red?logo=radio)](https://radiomaria.es/)
+[![Radio María](https://img.shields.io/badge/Radio%20María-blue)](https://radiomaria.es/)
 
 ## Recursos para Jóvenes
 
@@ -47,7 +48,8 @@
 
 [![Píldoras de Fe](https://img.shields.io/badge/Píldoras%20de%20Fe-blue)](https://www.pildorasdefe.net/)
 
+## Enciclopedias
+
 [![Enciclopedia Mercabá](https://img.shields.io/badge/Enciclopedia%20Mercabá-blue)](https://www.mercaba.org/)
 
-[![La Santa Misa](https://img.shields.io/badge/La%20Santa%20Misa-blue)](https://misas.org/)
 
