@@ -2,9 +2,13 @@
 
 ## Cerrados
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-blue)](https://chatgpt.com/)
+
 [![Gemini](https://img.shields.io/badge/Gemini-blue)](https://gemini.google.com/app)
+
 [![Copilot](https://img.shields.io/badge/Copilot-blue)](https://copilot.microsoft.com/)
+
 [![Claude](https://img.shields.io/badge/Claude-blue)](https://claude.ai/)
+
 [![LeChat](https://img.shields.io/badge/LeChat-blue)](https://www.mistral.ai/)
 
 ## Abiertos
