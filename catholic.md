@@ -41,13 +41,13 @@
 
 ## Recursos para Jóvenes
 
-[![Catoliscopio](https://img.shields.io/badge/Catoliscopio-brightgreen)](http://catoliscopio.com/)
+[![Catoliscopio](https://img.shields.io/badge/Catoliscopio-blue)](http://catoliscopio.com/)
 
 [![Jóvenes Católicos](https://img.shields.io/badge/Jóvenes%20Católicos-blue)](https://www.jovenescatolicos.es/)
 
-[![Píldoras de Fe](https://img.shields.io/badge/Píldoras%20de%20Fe-purple)](https://www.pildorasdefe.net/)
+[![Píldoras de Fe](https://img.shields.io/badge/Píldoras%20de%20Fe-blue)](https://www.pildorasdefe.net/)
 
-[![Enciclopedia Mercabá](https://img.shields.io/badge/Enciclopedia%20Mercabá-darkgreen)](https://www.mercaba.org/)
+[![Enciclopedia Mercabá](https://img.shields.io/badge/Enciclopedia%20Mercabá-blue)](https://www.mercaba.org/)
 
 [![La Santa Misa](https://img.shields.io/badge/La%20Santa%20Misa-blue)](https://misas.org/)
 
