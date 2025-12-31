@@ -1,4 +1,4 @@
-# Lista de Guías Web 📚
+# Lista de Guías Web
 
 ## HTML
 
@@ -18,7 +18,7 @@
 
 [![GitHub Markdown Guide](https://img.shields.io/badge/Markdown%20GitHub%20Flavored-black?logo=github)](https://docs.github.com/en/get-started/writing-on-github)
 
-## Guía de Bash / Terminal Linux 🖥️
+## Guía de Bash / Terminal Linux
 
 [![Bash Shell](https://img.shields.io/badge/Bash--Shell-blue?logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=ABgLEKFhlZE)
 [![GitHub](https://img.shields.io/badge/hello--bash--shell-black?logo=github)](https://github.com/mouredev/hello-bash-shell)
