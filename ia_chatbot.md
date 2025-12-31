@@ -1,4 +1,4 @@
-# Lista de Chatbots IA 🤖
+# Lista de Chatbots IA
 
 ## Cerrados
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-blue)](https://chatgpt.com/)
