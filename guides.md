@@ -23,6 +23,10 @@
 
 [![LaTeX Bilateria](https://img.shields.io/badge/Bilateria-blue?logo=latex)](https://latex.bilateria.org/index.html)
 
+[![Manual LaTeX Ecuaciones](https://img.shields.io/badge/Manual%20LaTeX%20Ecuaciones-blue?logo=latex)](https://manualdelatex.com/tutoriales/ecuaciones)
+[![Símbolos LaTeX](https://img.shields.io/badge/Símbolos%20LaTeX-blue?logo=latex)](https://manualdelatex.com/simbolos)
+[![Letras Griegas](https://img.shields.io/badge/Letras%20Griegas-blue?logo=latex)](https://manualdelatex.com/caracteres/letras-griegas)
+
 ## Guía de Bash / Terminal Linux
 
 [![Bash Shell](https://img.shields.io/badge/Bash--Shell-blue?logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=ABgLEKFhlZE)
