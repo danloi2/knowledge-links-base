@@ -6,7 +6,7 @@
 
 [![La Santa Sede](https://img.shields.io/badge/La%20Santa%20Sede-blue)](https://www.vatican.va/content/vatican/es.html)
 
-## Inteligencia Artificial Católica
+## Inteligencia Artificial
 
 [![Católico.Chat](https://img.shields.io/badge/Catholic.chat-blue?logo=church)](https://www.catholic.chat/)
 
@@ -28,7 +28,7 @@
 [![Romcal](https://img.shields.io/badge/Romcal-blue)](https://romcal.js.org)
 [![GitHub](https://img.shields.io/badge/romcal-black?logo=github)](https://github.com/romcal/romcal)
 
-## Medios Católicos
+## Medios
 
 [![ACI Prensa](https://img.shields.io/badge/ACI%20Prensa-blue)](https://www.aciprensa.com/)
 
