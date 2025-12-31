@@ -1,4 +1,4 @@
-# Recursos Católicos
+# Catolicismo
 
 ## Recursos Institucionales
 
