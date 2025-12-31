@@ -2,9 +2,9 @@
 
 ## Inteligencia Artificial Católica
 
-[![Católico.Chat](https://img.shields.io/badge/Católico.Chat-blue?logo=church)](https://www.catholic.chat/)
-[![Magisterium AI](https://img.shields.io/badge/Magisterium%20AI-darkblue)](https://www.magisterium.com/es)
-[![CatéGPT](https://img.shields.io/badge/CatéGPT-green)](https://categpt.chat/)
+[![Católico.Chat](https://img.shields.io/badge/Catholic.chat-blue?logo=church)](https://www.catholic.chat/)
+[![Magisterium AI](https://img.shields.io/badge/Magisterium%20AI-blue)](https://www.magisterium.com/es)
+[![CatéGPT](https://img.shields.io/badge/CatéGPT-blue)](https://categpt.chat/)
 
 ## Liturgia y Oración
 
