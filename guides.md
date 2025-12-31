@@ -18,6 +18,11 @@
 
 [![GitHub Markdown Guide](https://img.shields.io/badge/Markdown%20GitHub%20Flavored-black?logo=github)](https://docs.github.com/en/get-started/writing-on-github)
 
+## Latex
+
+
+[![LaTeX Bilateria](https://img.shields.io/badge/LaTeX%20Bilateria-blue?logo=latex)](https://latex.bilateria.org/index.html)
+
 ## Guía de Bash / Terminal Linux
 
 [![Bash Shell](https://img.shields.io/badge/Bash--Shell-blue?logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=ABgLEKFhlZE)
