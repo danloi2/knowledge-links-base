@@ -13,8 +13,15 @@
 
 ## Liturgia y Oración
 
-[![Breviarium](https://img.shields.io/badge/Breviarium-purple?logo=book)](https://breviarium.es/)
-[![La Santa Misa](https://img.shields.io/badge/La%20Santa%20Misa-gold)](https://misas.org/)
+[![Breviarium](https://img.shields.io/badge/Breviarium-blue?logo=book)](https://breviarium.es/)
+[![GitHub](https://img.shields.io/badge/breviarium--app-black?logo=github)](https://github.com/breviarium-app/)
+
+[![Romcal](https://img.shields.io/badge/Romcal-blue)](https://romcal.js.org)
+[![GitHub](https://img.shields.io/badge/romcal-black?logo=github)](https://github.com/romcal/romcal)
+
+[![ePrex](https://img.shields.io/badge/ePrex-green)](https://eprex.app/)
+
+[![iBreviary](https://img.shields.io/badge/iBreviary-darkblue)](https://www.ibreviary.com/m2/breviario.php)
 
 
 ## Medios Católicos
@@ -31,4 +38,5 @@
 [![Jóvenes Católicos](https://img.shields.io/badge/Jóvenes%20Católicos-blue)](https://www.jovenescatolicos.es/)
 [![Píldoras de Fe](https://img.shields.io/badge/Píldoras%20de%20Fe-purple)](https://www.pildorasdefe.net/)
 [![Enciclopedia Mercabá](https://img.shields.io/badge/Enciclopedia%20Mercabá-darkgreen)](https://www.mercaba.org/)
+[![La Santa Misa](https://img.shields.io/badge/La%20Santa%20Misa-blue)](https://misas.org/)
 
