@@ -9,5 +9,5 @@
 
 ## Guardado de imágenes
 
-[![imgbb](https://img.shields.io/badge/imgbb-blue)](https://imgbb.com/))
+[![imgbb](https://img.shields.io/badge/imgbb-blue)](https://imgbb.com/)
 
