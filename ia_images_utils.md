@@ -11,3 +11,7 @@
 
 [![imgbb](https://img.shields.io/badge/imgbb-blue)](https://imgbb.com/)
 
+## OCR
+
+[![Remove Background WebGPU](https://img.shields.io/badge/Youtu-Parsing-blue?logo=huggingface)](https://huggingface.co/spaces/tencent/Youtu-Parsing)
+
